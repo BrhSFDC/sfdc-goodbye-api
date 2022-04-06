@@ -1,10 +1,10 @@
 let findVersions = require('../lib/findVersions');
 
 let connection = {
-    token: 'dddSUzDF9v02J7uLXungygyPXTew7lEOkB5V54Yy9FgJkGQqZIWWexyd67',
-    url:'https://mydomain.my.salesforce.com',
+    token: '00D760000008aIZ!ARgAQBb.esb3ryXz9q8yiligSB15KIGQHi8QoUsy3pula2_._hYbSKZaJFEswzwCrpa8R64jWQk8OsAVUpkH9G1G1wgFd71k',
+    url:'https://brighthorizons--full.my.salesforce.com',
     apiVersion:'50.0',
-    apiThreshold:21
+    apiThreshold:20
 };
 
 console.log('Starting...');
